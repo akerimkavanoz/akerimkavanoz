@@ -1,6 +1,6 @@
 ### Hi, I'm Abdulkerim 👋
 
-- 🔭 I’m currently ETU Computer Engineering student (3/4) 📝
+- 🔭 I’m currently ETU Computer Engineering student (4/4) 📝
 
 ### Connect with me:
 
