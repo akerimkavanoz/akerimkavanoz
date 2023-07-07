@@ -1,7 +1,7 @@
 ### Hi, I'm Abdulkerim 👋
 
-- 🔭 I’m currently ETU Computer Engineering student (4/4) 📝
-
+- I graduated from Erzurum Technical University Computer Engineering Department with an average of 3.42. 📝
+- I'm actively coding flutter. 👨‍💻
 ### Connect with me:
 
 [<img align="left" alt="akerimkavanoz | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
