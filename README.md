@@ -1,7 +1,7 @@
 ### Hi, I'm Abdulkerim 👋
 
 - I graduated from Erzurum Technical University Computer Engineering department with an average of 3.42 as the third in the department. 📝
-- I'm actively coding Flutter. 👨‍💻
+- I'm actively coding Java. 👨‍💻
 ### Connect with me:
 
 [<img align="left" alt="akerimkavanoz | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
