@@ -1,7 +1,8 @@
 ### Hi, I'm Abdulkerim 👋
 
 - I graduated from Erzurum Technical University Computer Engineering department with an average of 3.42 as the third in the department. 📝
-- I am currently developing ERP modules with Asp.Net. 👨‍💻
+- I am a Computer Engineer specializing in building scalable enterprise ERP systems and microservices using .NET Core, Next.js and React. 💻
+- Passionate about clean code, API design, database management, and system security. 🚀
 ### Connect with me:
 
 [<img align="left" alt="akerimkavanoz | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
